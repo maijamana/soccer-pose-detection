@@ -1,9 +1,17 @@
 # Soccer Player Pose Detection and Analytics
 Professional project for detecting poses and analyzing players in soccer videos using YOLOv8-Pose.
 
-## Demo
-![Pose detection demo](data/photo.jpeg)
-![Pose Detection GIF](data/video.gif)
+<table>
+  <tr>
+    <td>
+      <img src="data/video.gif" width="390">
+    </td>
+    <td>
+      <img src="data/photo.jpeg" width="300">
+    </td>
+  </tr>
+</table>
+
 
 ## Description
 
